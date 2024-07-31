@@ -3,6 +3,7 @@
 ## Overview
 
 OOTA.com is a meal finder application that utilizes the Edamam API to help users discover recipes based on the ingredients they have. The application enhances recipe discovery efficiency by 40%, saving users' time by providing quick, detailed recipe suggestions and simplifying meal planning with an intuitive interface.
+
 ![Project Screenshot](oota.png)
 
 ## Features
