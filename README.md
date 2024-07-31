@@ -31,7 +31,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/oota-meal-finder.git
+   git clone https://github.com/Janav20/Oota.com.git
    ```
 2. Navigate to the project directory:
    ```bash
